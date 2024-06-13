@@ -1,4 +1,5 @@
 # Developer Notes
+[Link to code repo](https://github.com/allolib-s24/demo1-KateUnger)
 
 ## Sound
 For the sound portion of my project, I wanted to simulate a plucked gut string (such as on a viola or violin). You can hear a (very) brief example of a plucked gut string [here](https://youtu.be/ROe61GyvtXM?si=cvGYNr2car3hZIIl&t=79).
